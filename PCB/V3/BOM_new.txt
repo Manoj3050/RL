@@ -1,0 +1,10 @@
+Power Supply BOM
+
+CIN	20SEF120M
+COUT	EEU-FC1A471B
+D1	SB540-T
+L1	PM2110-101K-RC
+U1	LM2576T-5.0/NOPB
+
+D2 	12 zener diode
+D4 	5 zener diode
